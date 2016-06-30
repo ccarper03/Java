@@ -1,0 +1,18 @@
+{
+  "C:\\Program Files\\Java\\jre7\\lib\\rt.jar": {
+    "coordinate": "jre:jre:zip:call:1.0.0",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\rt.jar",
+    "status": "RESOLVED",
+    "error": "No class path info available for \u0027C:\\Program Files\\Java\\jre7\\lib\\rt.jar\u0027. Skipped."
+  },
+  "E:\\workspace\\Chap10test\\src": {
+    "location": "E:\\workspace\\Chap10test\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027E:\\workspace\\Chap10test\\src\u0027. Skipped."
+  },
+  "E:\\workspace\\Chap12test\\src": {
+    "location": "E:\\workspace\\Chap12test\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027E:\\workspace\\Chap12test\\src\u0027. Skipped."
+  }
+}
